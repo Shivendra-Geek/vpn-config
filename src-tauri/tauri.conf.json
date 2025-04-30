@@ -35,9 +35,10 @@
     ],
     "resources": [
       "vpn/openvpn.exe",
-      "vpn/vpngate_public-vpn-185.opengw.net_tcp_443.ovpn",
+      "vpn/openvpn.ovpn",
       "vpn/libcrypto-3-x64.dll",
-      "vpn/libssl-3-x64.dll"
+      "vpn/libssl-3-x64.dll",
+      "vpn/libpkcs11-helper-1.dll"
     ]
   }
 }
