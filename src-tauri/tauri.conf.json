@@ -39,6 +39,12 @@
       "vpn/libcrypto-3-x64.dll",
       "vpn/libssl-3-x64.dll",
       "vpn/libpkcs11-helper-1.dll"
-    ]
+    ],
+    "windows": {
+      "webviewInstallMode": {
+        "type": "downloadBootstrapper",
+        "silent": true
+      }
+    }
   }
 }
